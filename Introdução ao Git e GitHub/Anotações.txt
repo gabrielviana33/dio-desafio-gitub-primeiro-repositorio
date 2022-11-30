@@ -1,0 +1,4 @@
+Link para download do Git: https://git-scm.com/download/win
+O Git Bash é o aplicativo que oferece a camada de emulação para a experiência de linha de comando Git.
+Link do GitHub: https://github.com/
+O que é GitHub:É uma plataforma majoritariamente usada por desenvolvedores, pois permite uma hospedagem prática de código-fonte e arquivos em nuvem.
